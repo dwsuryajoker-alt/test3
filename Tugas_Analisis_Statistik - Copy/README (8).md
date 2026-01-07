@@ -12,7 +12,10 @@
 ## 2. **Deskripsi Proyek**
 
 Dataset yang digunakan dalam analisis ini merupakan data perusahaan yang berisi informasi mengenai Biaya_Akuisisi_Pelanggan_Juta_IDR dan Nilai_Pelanggan_Juta_IDR. Variabel Biaya_Akuisisi_Pelanggan_Juta_IDR merepresentasikan besarnya biaya yang dikeluarkan perusahaan untuk memperoleh pelanggan dalam satuan juta rupiah, sedangkan Nilai_Pelanggan_Juta_IDR menggambarkan nilai ekonomi pelanggan yang dihasilkan dalam satuan juta rupiah.
+
 Tujuan dari analisis ini adalah untuk memahami karakteristik data melalui analisis statistik deskriptif, menguji pola distribusi data melalui uji normalitas, menganalisis hubungan antara biaya akuisisi pelanggan dan nilai pelanggan melalui analisis korelasi, serta membangun model regresi linear untuk menjelaskan dan memprediksi nilai pelanggan berdasarkan biaya akuisisi pelanggan yang dikeluarkan perusahaan.
+
+
 ---
 
 ## 3. Struktur Proyek
